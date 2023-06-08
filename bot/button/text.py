@@ -23,6 +23,12 @@ code_color = "Change the color of the QR code"
 #
 # }
 
-uz = "🇺🇿UZB"
-ru ="🇷🇺RUS"
-en = "🇺🇸ENG"
+uz = "🇺🇿O`zbek tilida davom etish"
+ru ="🇷🇺Продолжить на русском языке"
+en = "🇺🇸Continue in English"
+
+new_qr_code_uz = "Yangi QR kod yasash"
+new_qr_code_en = "Create a new QR code"
+new_qr_code_ru = "Создайте новый QR-код"
+
+change_lang = "Tilni o`zgartirish | Изменить язык | Change the language ⚙"
